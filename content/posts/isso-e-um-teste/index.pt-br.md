@@ -2,7 +2,7 @@
 title: Isso é um teste
 description: Esse é um post de teste com o Plumbago.
 date: 2026-08-09
-draft: true
+draft: false
 translationKey: isso-e-um-teste
 tags:
   - teste
@@ -24,3 +24,4 @@ Esse post é um teste do Plumbago.
 
 ---
 ### asdasd
+![Descrição da imagem](desenho-32-20260204073946.jpg)
