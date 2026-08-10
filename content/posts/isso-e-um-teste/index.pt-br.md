@@ -6,7 +6,7 @@ draft: false
 translationKey: isso-e-um-teste
 tags:
   - teste
-featuredImage: ""
+featuredImage: desenho-32-20260204073946.jpg
 publishDate: 2026-08-10T02:22:00.000Z
 ---
 
@@ -24,4 +24,6 @@ Esse post é um teste do Plumbago.
 
 ---
 ### asdasd
-![Descrição da imagem](desenho-32-20260204073946.jpg)
+![Desenho da hornet](desenho-32-20260204073946.jpg)
+*Hornet*
+
