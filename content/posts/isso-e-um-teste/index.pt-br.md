@@ -27,3 +27,4 @@ Esse post é um teste do Plumbago.
 ![Desenho da hornet](desenho-32-20260204073946.jpg)
 *Hornet*
 
+![Descrição da imagem](desenho-20260810114319-protected-intensity-high-v2.jpg)
