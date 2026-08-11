@@ -8,12 +8,6 @@ tags: []
 featuredImage: ""
 ---
 
-+++
-date = '2026-08-10T22:02:07-03:00'
-draft = true
-title = 'Index.pt Br'
-+++
-
 Isso é mais um post
 adasd
 asdasdasdasdsa
