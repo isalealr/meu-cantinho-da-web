@@ -10,12 +10,6 @@ featuredImage: ""
 publishDate: 2026-08-11T01:18:00.000Z
 ---
 
-+++  
-date = '2026-08-10T22:17:06-03:00'  
-draft = true  
-title = 'Index.pt Br'  
-+++
-
 Mais um post de teste kk.
 
 ---

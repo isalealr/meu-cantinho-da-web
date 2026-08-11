@@ -11,12 +11,6 @@ featuredImage: desenho-32-20260204073946.jpg
 publishDate: 2026-08-10T02:22:00.000Z
 ---
 
-+++  
-date = '2026-08-09T23:06:16-03:00'  
-draft = true  
-title = 'Index.pt Br'  
-+++
-
 Esse post é um teste do Plumbago. 
 
 * * *
