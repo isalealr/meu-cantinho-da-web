@@ -10,3 +10,9 @@ featuredImage: ""
 ---
 
 Mais um post. 
+
+![Descrição da imagem](sand.png)
+
+![Descrição da imagem](beautiful.png)
+
+![Descrição da imagem](fun.png)
