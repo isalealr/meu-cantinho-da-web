@@ -6,8 +6,15 @@
     <description>Recent content in Teste on Meu cantinho da web</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/meu-cantinho-da-web/tags/teste/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post 2</title>
+      <link>http://localhost:1313/meu-cantinho-da-web/posts/post-2/index.pt-br/</link>
+      <pubDate>Tue, 11 Aug 2026 01:08:00 +0000</pubDate>
+      <guid>http://localhost:1313/meu-cantinho-da-web/posts/post-2/index.pt-br/</guid>
+      <description>Mais um post de teste.</description>
+    </item>
     <item>
       <title>Isso é um teste</title>
       <link>http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/index.pt-br/</link>
