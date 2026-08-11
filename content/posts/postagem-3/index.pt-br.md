@@ -4,7 +4,8 @@ description: ""
 date: 2026-08-11
 draft: false
 translationKey: postagem-3
-tags: []
+tags:
+  - teste
 featuredImage: ""
 publishDate: 2026-08-12T01:18:00.000Z
 ---
@@ -23,3 +24,7 @@ Isso é uma lista de tarefas:
 
 - [x] Fazer x
 - [ ] Resolver y
+
+---
+
+![Wobbledog](wobbledogs-buddy.jpg)

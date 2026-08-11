@@ -6,6 +6,7 @@ draft: false
 translationKey: isso-e-um-teste
 tags:
   - teste
+  - desenho
 featuredImage: desenho-32-20260204073946.jpg
 publishDate: 2026-08-10T02:22:00.000Z
 ---
