@@ -1,6 +1,6 @@
 +++
 date = "2026-08-12"
-draft = true
+draft = false
 title = "Isso é mais um testeee"
 description = ""
 translationKey = "isso-e-mais-um-testeee"
