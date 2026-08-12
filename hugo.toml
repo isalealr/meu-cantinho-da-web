@@ -2,3 +2,9 @@ baseURL = "https://isalealr.github.io/meu-cantinho-da-web/"
 languageCode = "pt-BR"
 title = "Meu cantinho da web"
 theme = "hugo-PaperMod"
+defaultContentLanguage = "pt-br"
+
+[languages.pt-br]
+languageCode = "pt-BR"
+languageName = "pt-BR"
+weight = 1
