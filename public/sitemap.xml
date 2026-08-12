@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:1313/meu-cantinho-da-web/posts/isso-e-mais-um-testeee/</loc>
+    <lastmod>2026-08-12T00:00:00+00:00</lastmod>
+  </url>
   <url>
     <loc>http://localhost:1313/meu-cantinho-da-web/</loc>
-    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
-  </url><url>
+    <lastmod>2026-08-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/meu-cantinho-da-web/posts/</loc>
+    <lastmod>2026-08-12T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/meu-cantinho-da-web/posts/post-2/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>http://localhost:1313/meu-cantinho-da-web/posts/post-4/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/</loc>
     <lastmod>2026-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/meu-cantinho-da-web/posts/</loc>
-    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/meu-cantinho-da-web/tags/</loc>
-    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/meu-cantinho-da-web/tags/teste/</loc>
-    <lastmod>2026-08-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/meu-cantinho-da-web/tags/desenho/</loc>
-    <lastmod>2026-08-09T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/</loc>
     <lastmod>2026-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/meu-cantinho-da-web/categories/</loc>
   </url>
 </urlset>

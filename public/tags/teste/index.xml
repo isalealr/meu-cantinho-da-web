@@ -1,33 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Teste on Meu cantinho da web</title>
-        <link>http://localhost:1313/meu-cantinho-da-web/tags/teste/</link>
-        <description>Recent content in Teste on Meu cantinho da web</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>pt-BR</language>
-        <lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/meu-cantinho-da-web/tags/teste/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>post 2</title>
-            <link>http://localhost:1313/meu-cantinho-da-web/posts/post-2/</link>
-            <pubDate>Mon, 10 Aug 2026 12:08:00 +0000</pubDate>
-            <guid>http://localhost:1313/meu-cantinho-da-web/posts/post-2/</guid>
-            <description>&lt;p&gt;Isso é mais um post de teste.&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>post 4</title>
-            <link>http://localhost:1313/meu-cantinho-da-web/posts/post-4/</link>
-            <pubDate>Wed, 12 Aug 2026 01:59:00 +0000</pubDate>
-            <guid>http://localhost:1313/meu-cantinho-da-web/posts/post-4/</guid>
-            <description>&lt;p&gt;Mais um post.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Descrição da imagem&#34; class=&#34;gallery-image&#34; data-flex-basis=&#34;320px&#34; data-flex-grow=&#34;133&#34; height=&#34;1200&#34; loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/sand.png&#34; srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/sand_hu_2d8853472aec2529.png 800w, http://localhost:1313/meu-cantinho-da-web/posts/post-4/sand.png 1600w&#34; width=&#34;1600&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Descrição da imagem&#34; class=&#34;gallery-image&#34; data-flex-basis=&#34;320px&#34; data-flex-grow=&#34;133&#34; height=&#34;1200&#34; loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/beautiful.png&#34; srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/beautiful_hu_ccd1fbac1697777.png 800w, http://localhost:1313/meu-cantinho-da-web/posts/post-4/beautiful.png 1600w&#34; width=&#34;1600&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Descrição da imagem&#34; class=&#34;gallery-image&#34; data-flex-basis=&#34;320px&#34; data-flex-grow=&#34;133&#34; height=&#34;1200&#34; loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/fun.png&#34; srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/fun_hu_432357eff1c2d78.png 800w, http://localhost:1313/meu-cantinho-da-web/posts/post-4/fun.png 1600w&#34; width=&#34;1600&#34;&gt;&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>Postagem 3</title>
-            <link>http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/</link>
-            <pubDate>Tue, 11 Aug 2026 01:18:00 +0000</pubDate>
-            <guid>http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/</guid>
-            <description>&lt;p&gt;Mais um post de teste kk.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Isso é uma lista de tarefas:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Fazer x&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Resolver y&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Wobbledog&#34; class=&#34;gallery-image&#34; data-flex-basis=&#34;248px&#34; data-flex-grow=&#34;103&#34; height=&#34;808&#34; loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/wobbledogs-buddy.jpg&#34; srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/wobbledogs-buddy_hu_ec6b9f771bf09310.jpg 800w, http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/wobbledogs-buddy.jpg 835w&#34; width=&#34;835&#34;&gt;&lt;/p&gt;&#xA;</description>
-        </item><item>
-            <title>Isso é um teste</title>
-            <link>http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/</link>
-            <pubDate>Mon, 10 Aug 2026 02:22:00 +0000</pubDate>
-            <guid>http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/</guid>
-            <description>&lt;p&gt;Esse post é um teste do Plumbago. &lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;    &lt;blockquote&gt;&#xD;&#xA;        &lt;p&gt;Isso é um teste.&lt;br&gt;&#xA;Isso é mais um teste.&lt;/p&gt;&#xA;&#xD;&#xA;    &lt;/blockquote&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;alguns-desenhos&#34;&gt;Alguns desenhos&#xD;&#xA;&lt;/h3&gt;&lt;p&gt;&lt;img alt=&#34;Desenho da hornet&#34; class=&#34;gallery-image&#34; data-flex-basis=&#34;240px&#34; data-flex-grow=&#34;100&#34; height=&#34;1544&#34; loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-32-20260204073946.jpg&#34; srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-32-20260204073946_hu_23891725f2d4e690.jpg 800w, http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-32-20260204073946.jpg 1544w&#34; width=&#34;1544&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Desenho 2&#34; class=&#34;gallery-image&#34; data-flex-basis=&#34;382px&#34; data-flex-grow=&#34;159&#34; height=&#34;2160&#34; loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-20260810114319-protected-intensity-high-v2.jpg&#34; srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-20260810114319-protected-intensity-high-v2_hu_986b142eba07d114.jpg 800w, http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-20260810114319-protected-intensity-high-v2_hu_8dc97835ab1cb3fe.jpg 1600w, http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-20260810114319-protected-intensity-high-v2_hu_df049db9de15c9b2.jpg 2400w, http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-20260810114319-protected-intensity-high-v2.jpg 3440w&#34; width=&#34;3440&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;E esses foram meus desenhos de hoje.&lt;/p&gt;&#xA;</description>
-        </item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teste on Meu cantinho da web</title>
+    <link>http://localhost:1313/meu-cantinho-da-web/tags/teste/</link>
+    <description>Recent content in Teste on Meu cantinho da web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Tue, 11 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/meu-cantinho-da-web/tags/teste/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>post 2</title>
+      <link>http://localhost:1313/meu-cantinho-da-web/posts/post-2/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/meu-cantinho-da-web/posts/post-2/</guid>
+      <description>&lt;p&gt;Isso é mais um post de teste.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>post 4</title>
+      <link>http://localhost:1313/meu-cantinho-da-web/posts/post-4/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/meu-cantinho-da-web/posts/post-4/</guid>
+      <description>&lt;p&gt;Mais um post.&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img&#xD;&#xA;    class=&#34;my-0 rounded-md&#34;&#xD;&#xA;    loading=&#34;lazy&#34;&#xD;&#xA;    decoding=&#34;async&#34;&#xD;&#xA;    fetchpriority=&#34;auto&#34;&#xD;&#xA;    alt=&#34;Descrição da imagem&#34;&#xD;&#xA;    width=&#34;1600&#34;&#xD;&#xA;    height=&#34;1200&#34;&#xD;&#xA;    src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/sand_hu_2d8853472aec2529.png&#34;&#xD;&#xA;    srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/sand_hu_2d8853472aec2529.png 800w, http://localhost:1313/meu-cantinho-da-web/posts/post-4/sand_hu_52ba4a72c9074bcb.png 1280w&#34;&#xD;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xD;&#xA;    data-zoom-src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/sand.png&#34;&gt;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img&#xD;&#xA;    class=&#34;my-0 rounded-md&#34;&#xD;&#xA;    loading=&#34;lazy&#34;&#xD;&#xA;    decoding=&#34;async&#34;&#xD;&#xA;    fetchpriority=&#34;auto&#34;&#xD;&#xA;    alt=&#34;Descrição da imagem&#34;&#xD;&#xA;    width=&#34;1600&#34;&#xD;&#xA;    height=&#34;1200&#34;&#xD;&#xA;    src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/beautiful_hu_ccd1fbac1697777.png&#34;&#xD;&#xA;    srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/beautiful_hu_ccd1fbac1697777.png 800w, http://localhost:1313/meu-cantinho-da-web/posts/post-4/beautiful_hu_dd4cc876ff0e48d0.png 1280w&#34;&#xD;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xD;&#xA;    data-zoom-src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/beautiful.png&#34;&gt;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img&#xD;&#xA;    class=&#34;my-0 rounded-md&#34;&#xD;&#xA;    loading=&#34;lazy&#34;&#xD;&#xA;    decoding=&#34;async&#34;&#xD;&#xA;    fetchpriority=&#34;auto&#34;&#xD;&#xA;    alt=&#34;Descrição da imagem&#34;&#xD;&#xA;    width=&#34;1600&#34;&#xD;&#xA;    height=&#34;1200&#34;&#xD;&#xA;    src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/fun_hu_432357eff1c2d78.png&#34;&#xD;&#xA;    srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/fun_hu_432357eff1c2d78.png 800w, http://localhost:1313/meu-cantinho-da-web/posts/post-4/fun_hu_861d377b1998af88.png 1280w&#34;&#xD;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xD;&#xA;    data-zoom-src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/post-4/fun.png&#34;&gt;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Postagem 3</title>
+      <link>http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/</guid>
+      <description>&lt;p&gt;Mais um post de teste kk.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Isso é uma lista de tarefas:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Fazer x&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Resolver y&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img&#xD;&#xA;    class=&#34;my-0 rounded-md&#34;&#xD;&#xA;    loading=&#34;lazy&#34;&#xD;&#xA;    decoding=&#34;async&#34;&#xD;&#xA;    fetchpriority=&#34;auto&#34;&#xD;&#xA;    alt=&#34;Wobbledog&#34;&#xD;&#xA;    width=&#34;835&#34;&#xD;&#xA;    height=&#34;808&#34;&#xD;&#xA;    src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/wobbledogs-buddy_hu_ec6b9f771bf09310.jpg&#34;&#xD;&#xA;    srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/wobbledogs-buddy_hu_ec6b9f771bf09310.jpg 800w, http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/wobbledogs-buddy.jpg 1280w&#34;&#xD;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xD;&#xA;    data-zoom-src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/postagem-3/wobbledogs-buddy.jpg&#34;&gt;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Isso é um teste</title>
+      <link>http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/</link>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/</guid>
+      <description>&lt;p&gt;Esse post é um teste do Plumbago. &lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&lt;p&gt;Isso é um teste.&lt;br&gt;&#xA;Isso é mais um teste.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Alguns desenhos&#xD;&#xA;    &lt;div id=&#34;alguns-desenhos&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#alguns-desenhos&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img&#xD;&#xA;    class=&#34;my-0 rounded-md&#34;&#xD;&#xA;    loading=&#34;lazy&#34;&#xD;&#xA;    decoding=&#34;async&#34;&#xD;&#xA;    fetchpriority=&#34;auto&#34;&#xD;&#xA;    alt=&#34;Desenho da hornet&#34;&#xD;&#xA;    width=&#34;1544&#34;&#xD;&#xA;    height=&#34;1544&#34;&#xD;&#xA;    src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-32-20260204073946_hu_23891725f2d4e690.jpg&#34;&#xD;&#xA;    srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-32-20260204073946_hu_23891725f2d4e690.jpg 800w, http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-32-20260204073946_hu_716fabc8292ee7d9.jpg 1280w&#34;&#xD;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xD;&#xA;    data-zoom-src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-32-20260204073946.jpg&#34;&gt;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&lt;img&#xD;&#xA;    class=&#34;my-0 rounded-md&#34;&#xD;&#xA;    loading=&#34;lazy&#34;&#xD;&#xA;    decoding=&#34;async&#34;&#xD;&#xA;    fetchpriority=&#34;auto&#34;&#xD;&#xA;    alt=&#34;Desenho 2&#34;&#xD;&#xA;    width=&#34;3440&#34;&#xD;&#xA;    height=&#34;2160&#34;&#xD;&#xA;    src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-20260810114319-protected-intensity-high-v2_hu_986b142eba07d114.jpg&#34;&#xD;&#xA;    srcset=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-20260810114319-protected-intensity-high-v2_hu_986b142eba07d114.jpg 800w, http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-20260810114319-protected-intensity-high-v2_hu_d0f3f943062aeaf7.jpg 1280w&#34;&#xD;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xD;&#xA;    data-zoom-src=&#34;http://localhost:1313/meu-cantinho-da-web/posts/isso-e-um-teste/desenho-20260810114319-protected-intensity-high-v2.jpg&#34;&gt;&lt;/figure&gt;&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;E esses foram meus desenhos de hoje.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
 </rss>
