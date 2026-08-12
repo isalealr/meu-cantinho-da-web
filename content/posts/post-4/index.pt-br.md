@@ -7,6 +7,7 @@ translationKey: post-4
 tags:
   - teste
 featuredImage: ""
+publishDate: 2026-08-12T01:59:00.000Z
 ---
 
 Mais um post. 
